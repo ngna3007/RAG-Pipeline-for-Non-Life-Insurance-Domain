@@ -1,5 +1,10 @@
 # COS30018 - Vietnamese Legal Assistant with RAG
 
+## This is a group project for the COS30018 unit with total of 4 members:
+- Nguyen Ngoc Anh
+- Arlene Phuong Brown
+- Le Hoang Long
+- Vu Minh Dung
 ## Prerequisites
 
 - Python 3.x installed
